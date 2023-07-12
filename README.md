@@ -44,7 +44,7 @@ Weather Widget: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidar
 
 Repo (group - private): https://github.com/cse330-spring-2023/module5-group-m5-473073-465109
 
-Calendar: http://ec2-100-26-188-231.compute-1.amazonaws.com/~kaan/main.html
+Calendar (Login to user: "Q" with password: "q" to see sample): http://ec2-100-26-188-231.compute-1.amazonaws.com/~kaan/main.html
 
 ## Module 6 - Real-Time Web Applications
 Objective: Build upon the JavaScript skills learned in Module 5.
