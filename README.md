@@ -25,7 +25,7 @@ Repo (individual - private): https://github.com/cse330-spring-2023/module3-indiv
 
 Repo (group - private): https://github.com/cse330-spring-2023/module3-group-kaan-david
 
-News Site: http://ec2-100-26-188-231.compute-1.amazonaws.com/~kaan/newsSite.html
+News Site (continue as guest only): http://ec2-100-26-188-231.compute-1.amazonaws.com/~kaan/newsSite.html
 
 ## Module 4 - Scripting for Rapid Prototyping
 Objective: Learn the fundamentals of Python, a popular scripting language, and Regular Expressions, which give you power in text processing.
