@@ -17,7 +17,7 @@ Repo (individual - private): https://github.com/cse330-spring-2023/module2-indiv
 
 Repo (group - private): https://github.com/cse330-spring-2023/module2-group-473073-465109
 
-File sharing site: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong9/fileSystem.html
+File sharing site (View "IMG_0107.jpeg" under username "Joe"): http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong9/fileSystem.html
 
 ## Module 3 - SQL Databases
 Objective: Learn about MySQL, a web application database.
