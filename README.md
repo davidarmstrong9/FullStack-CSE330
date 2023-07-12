@@ -10,7 +10,9 @@ Repo (private): https://github.com/cse330-spring-2023/module1-davidarmstrong9
 Objective: Introduces Linux, a command-line environment, the Apache web server, and PHP by creating and configuring own cloud instance, installing Apache and related software, and then forming groups to make a simple file sharing site.
 
 Repo (individual - private): https://github.com/cse330-spring-2023/module2-individual-davidarmstrong9
+
 1.4: Link to public_html file - http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong9/test.txt
+
 2.4: Link to calculator file - http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong9/calculator.html
 
 Repo (group - private): https://github.com/cse330-spring-2023/module2-group-473073-465109
@@ -22,6 +24,7 @@ Objective: Learn about MySQL, a web application database.
 Repo (individual - private): https://github.com/cse330-spring-2023/module3-individual-davidarmstrong9
 
 Repo (group - private): https://github.com/cse330-spring-2023/module3-group-kaan-david
+
 News Site: http://ec2-100-26-188-231.compute-1.amazonaws.com/~kaan/newsSite.html
 
 ## Module 4 - Scripting for Rapid Prototyping
@@ -33,7 +36,9 @@ Repo (private): https://github.com/cse330-spring-2023/module4-davidarmstrong9
 Objective: Learn JavaScript, the dominant client-side web language.
 
 Repo (individual - private): https://github.com/cse330-spring-2023/module5-individual-davidarmstrong9
+
 Calculator: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong/calculator.html
+
 Weather Widget: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong/weather.html
 
 Repo (group - private): https://github.com/cse330-spring-2023/module5-group-m5-473073-465109
