@@ -16,6 +16,7 @@ Repo (individual - private): https://github.com/cse330-spring-2023/module2-indiv
 2.4: Link to calculator file - http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong9/calculator.html
 
 Repo (group - private): https://github.com/cse330-spring-2023/module2-group-473073-465109
+
 File sharing site: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong9/fileSystem.html
 
 ## Module 3 - SQL Databases
@@ -42,6 +43,7 @@ Calculator: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstr
 Weather Widget: http://ec2-3-21-169-132.us-east-2.compute.amazonaws.com/~davidarmstrong/weather.html
 
 Repo (group - private): https://github.com/cse330-spring-2023/module5-group-m5-473073-465109
+
 Calendar: http://ec2-100-26-188-231.compute-1.amazonaws.com/~kaan/main.html
 
 ## Module 6 - Real-Time Web Applications
