@@ -57,4 +57,4 @@ Repo (group - private): https://github.com/cse330-spring-2023/module6-group-modu
 Objective: Learn a new framework or language that may be interesting. (We chose Next.js)
 
 Repo (public!): https://github.com/davidarmstrong9/music-reviews
-https://github.com/davidarmstrong9/music-reviews/assets/54511889/ac682959-4280-4a7c-bf9a-583163cdba85
+[Demo Video]([url](https://github.com/davidarmstrong9/music-reviews/assets/54511889/ac682959-4280-4a7c-bf9a-583163cdba85)https://github.com/davidarmstrong9/music-reviews/assets/54511889/ac682959-4280-4a7c-bf9a-583163cdba85)
