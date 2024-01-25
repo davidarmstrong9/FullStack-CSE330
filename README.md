@@ -1,5 +1,5 @@
 # FullStack-CSE330
-All 7 modules documenting my learning journey of full-stack web development. Click into the repos to find interactive websites. Please direct any questions to david.armstrong391@gmail.com!
+All 7 modules documenting my learning journey of full-stack web development. Please note that most repositories are private because they are from school projects, and website links don't work anymore because my 12-month AWS Free Tier expired. Please direct any questions to david.armstrong391@gmail.com!
 
 ## Module 1 - HTML and CSS Fundamentals
 Objective: Introduces the fundamentals of HTML and CSS by first making a static document using HTML and CSS, and then a portal to a DuckDuckGo search.
